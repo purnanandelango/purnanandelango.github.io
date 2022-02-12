@@ -1,2 +1,1 @@
-# purnanandelango.github.io
-Purnanand Elango's webpage
+# Purnanand Elango's webpage
