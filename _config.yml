@@ -4,6 +4,8 @@ title: "Purnanand's personal webpage"
 # Your name to show in the footer
 author: "Purnanand Elango"
 
+theme: minimal-mistakes-jekyll
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
