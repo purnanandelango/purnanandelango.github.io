@@ -7,6 +7,9 @@ usemathjax: true
 
 # Research
 
+$$
+E = mc^2
+$$
 
 \begin{align}
 \mathrm{minimize} ~~ &~~\sum_{t=0}^N l(x_t,u_t)\\
