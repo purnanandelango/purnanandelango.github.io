@@ -1,8 +1,7 @@
 --- 
 layout: page 
 title: "Research" 
-permalink: /research/ 
-usemathjax: true
+permalink: /research/
 ---
 
 # Research
