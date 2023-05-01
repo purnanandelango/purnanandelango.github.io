@@ -1,1 +1,0 @@
-# Purna's Personal Website
