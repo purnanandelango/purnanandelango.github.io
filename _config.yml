@@ -8,10 +8,10 @@ theme: minima
 nav:
   - title: Home
     url: /
-  # - title: About
-  #   url: /about/
-  # - title: Contact
-  #   url: /contact/
+  - title: Tools
+    url: /tools/
+  - title: Research
+    url: /research/
 
 footer:
   - text: Copyright © 2023 Purnanand Elango
