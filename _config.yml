@@ -13,6 +13,4 @@ nav:
   - title: Research
     url: /research/
 
-footer:
-  - text: Copyright © 2023 Purnanand Elango
-  - text: Powered by Jekyll and GitHub Pages
+footer_content: "Copyright &copy; Purnanand Elango"
