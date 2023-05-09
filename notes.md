@@ -1,0 +1,1 @@
+- Remove the default footer of the `minima` theme by modifying `_includes\footer.html`
