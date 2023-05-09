@@ -1,0 +1,18 @@
+# Site settings
+title: Purnanand Elango
+description: Ph.D. Student at University of Washington
+
+# Build settings
+theme: jekyll-theme-minimal
+
+nav:
+  - title: Home
+    url: /
+  # - title: About
+  #   url: /about/
+  # - title: Contact
+  #   url: /contact/
+
+footer:
+  - text: Copyright © 2023 Purnanand Elango
+  - text: Powered by Jekyll and GitHub Pages
